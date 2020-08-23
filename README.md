@@ -12,7 +12,7 @@ how to use:
 
 1. Download and install GraphViz for windows (https://graphviz.org/download/)
 2. start myPMgui.exe
-3. set language (ru, en avaiable)
+3. set language (ru, en available)
 4. set path to GraphViz dot.exe
 5. select log file (.xes, .csv). for csv use UTF-8 encoded file.
 

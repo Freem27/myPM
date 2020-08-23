@@ -16,7 +16,8 @@ how to use:
 4. set path to GraphViz dot.exe
 5. select log file (.xes, .csv). for csv use UTF-8 encoded file.
 
- 5.1. for .csv set file parametrs (col positions, datetime format and col delimiter)
+5.1. for .csv set file parametrs (col positions, datetime format and col delimiter)
+
 6. update statistics
 7. apply filters\modifiers if necessary
 8. press "render" button
